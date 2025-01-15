@@ -1,1 +1,0 @@
-# Bayesian-Analysis-and-Inference
